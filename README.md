@@ -1,6 +1,7 @@
 # 🌧️ Rainfall Prediction Project
 - Predicting whether it will rain tomorrow using Machine Learning.
 
+
 # 📌 Project Overview
 - This project aims to predict Rainfall (Yes/No) using weather data.
 - Since the output is binary, we use Logistic Regression, which is ideal for classification problems.
